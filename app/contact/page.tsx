@@ -247,7 +247,7 @@ export default function ContactPage() {
                         <Linkedin className="h-5 w-5" aria-hidden="true" />
                       </a>
                       <a
-                        href="https://www.instagram.com/vistalegal"
+                        href="https://www.instagram.com/vistalegalofficial"
                         target="_blank"
                         rel="noopener noreferrer"
                         aria-label="Instagram"

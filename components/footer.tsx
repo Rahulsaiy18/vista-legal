@@ -23,7 +23,7 @@ export default function Footer() {
                 label="LinkedIn"
               />
               <SocialLink
-                href="https://www.instagram.com/vistalegal"
+                href="https://www.instagram.com/vistalegalofficial"
                 icon={<Instagram className="h-5 w-5" aria-hidden="true" />}
                 label="Instagram"
               />
